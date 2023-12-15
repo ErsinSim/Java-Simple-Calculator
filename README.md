@@ -5,7 +5,7 @@
 
 This is a simple **Java** calculator.
 
-[![calculator.png](https://i.postimg.cc/PJs0HjrW/calculator.png)](https://postimg.cc/1nBv0bFX)
+<img width="250" alt="calculator" src="https://github.com/ErsinSim/Java-Simple-Calculator/assets/153938106/6a149d3a-d469-4965-9cfd-f9fa91e775bd">
 
 ### How to run it?
 
