@@ -14,8 +14,8 @@ You can simply check this by opening cmd or PowerShell and type: ```java --versi
 
 How to add Java to PATH: https://www.java.com/en/download/help/path.html
 
-3. Open cmd or PowerShell and compile main.java: ```javac main.java```
+2. Open cmd or PowerShell and compile main.java: ```javac main.java```
 
-4. Run the calculator by typing: ```java main.java```
-5. Click on the **on** button.
-6. Do your calculations and enjoy.
+3. Run the calculator by typing: ```java main.java```
+4. Click on the **on** button.
+5. Do your calculations and enjoy.
